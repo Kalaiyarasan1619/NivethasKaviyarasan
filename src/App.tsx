@@ -4,8 +4,6 @@ import { defaultWeddingData } from './data/defaultData';
 import { HeroSection } from './components/HeroSection';
 import { CountdownTimer } from './components/CountdownTimer';
 import { VenueSection } from './components/VenueSection';
-import { CoupleSection } from './components/CoupleSection';
-import { BrideMemoriesGallery } from './components/BrideMemoriesGallery';
 import { CalendarExport } from './components/CalendarExport';
 import { CustomizerDrawer } from './components/CustomizerDrawer';
 
@@ -82,14 +80,8 @@ export const App: React.FC = () => {
         {/* Calendar Add & Share Options */}
         <CalendarExport data={data} />
 
-        {/* Bride's Cherished Romantic Memories Gallery */}
-        <BrideMemoriesGallery />
-
         {/* Both Venues: Marriage Hall (A.M.R.K.) & Reception Hall (Prn) */}
         <VenueSection data={data} />
-
-        {/* Bride & Groom Couple and Family Section */}
-        <CoupleSection data={data} />
 
         {/* Footer */}
         <footer className="w-full text-center py-10 border-t border-[#d4af37]/20 bg-[#120205]/90">
