@@ -260,7 +260,6 @@ export const CustomizerDrawer: React.FC<CustomizerDrawerProps> = ({
 
             <div className="border-t border-[#d4af37]/20 pt-4 text-center">
               <p className="text-[10px] text-[#eddcaa]/60 font-serif">
-                Presented by @M.Kalaiyarasan - 2026
               </p>
             </div>
           </div>

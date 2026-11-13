@@ -29,14 +29,14 @@ export const defaultWeddingData: WeddingData = {
   groomAncestry: "மூவாநல்லூர் மேலத்தெரு, மன்னார்குடி வட்டம், திருவாரூர் மாவட்டம்",
 
   // Dates & Notes
-  invitationNoteLine1: "எங்கள் வாழ்வின் இனிய தொடக்கத்தில் தாங்கள் தங்கள்",
-  invitationNoteLine2: "சுற்றமும் நட்பும் சூழ வருகை தந்து மணமக்களை வாழ்த்திடுமாறு அன்புடன் அழைக்கின்றோம்.",
+  invitationNoteLine1: "எங்கள் வாழ்வின் இனிய தொடக்கத்தில்",
+  invitationNoteLine2: "தாங்கள் தங்கள் சுற்றமும் நட்பும் சூழ வருகை தந்து மணமக்களை வாழ்த்திடுமாறு அன்புடன் அழைக்கின்றோம்.",
   weddingDateDisplay: "14 DECEMBER 2026",
   weddingDateIso: "2026-12-14T09:00:00",
   muhurthamTimeTamil: "காலை 9.00 மணிக்குமேல் 10.30 மணிக்குள் (மகர லக்கினத்தில்)",
   muhurthamTimeEnglish: "from 9.00 am to 10.30 am (Makara Lagnam)",
   astrologyTamil: "பராபவ வருடம் கார்த்திகை 28 (14.12.2026), திங்கட்கிழமை, பஞ்சமி திதி, அவிட்ட நட்சத்திரம்",
-  buttonText: "அழைப்பிதழ் திறக்கப்பட்டது ✓",
+  buttonText: "அழைப்பிதழைத் திறக்கவும்",
   buttonSubtext: "OPEN OUR INVITATION",
   
   // 1. Marriage Venue (From Marriage Card)

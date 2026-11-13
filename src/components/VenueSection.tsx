@@ -12,12 +12,12 @@ export const VenueSection: React.FC<VenueSectionProps> = ({ data }) => {
   return (
     <section className="py-12 px-4 sm:px-6 max-w-5xl mx-auto">
       {/* Section Header */}
-      <div className="text-center mb-10">
-        <span className="font-serif text-xs tracking-[0.3em] text-[#d4af37] uppercase block mb-1">
+      <div className="text-center mb-8 sm:mb-10">
+        <span className="font-serif text-[11px] sm:text-xs tracking-[0.3em] text-[#d4af37] uppercase block mb-1.5">
           WEDDING &amp; RECEPTION VENUES
         </span>
-        <h2 className="font-tamil text-2xl sm:text-3xl font-bold text-[#f7e8a9] tracking-wide">
-          திருமண மண்டபங்கள் &amp; முகவரிகள்
+        <h2 className="font-tamil text-2xl sm:text-3xl md:text-4xl font-bold text-[#f7e8a9] tracking-wide">
+          திருமணம் &amp; வரவேற்பு முகவரிகள்
         </h2>
         <div className="flex items-center justify-center gap-2 text-[#d4af37]/70 my-2">
           <span className="w-10 h-[1px] bg-gradient-to-r from-transparent to-[#d4af37]/60"></span>
