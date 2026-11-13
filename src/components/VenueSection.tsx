@@ -1,6 +1,6 @@
 import React from 'react';
 import type { WeddingData } from '../types/wedding';
-import { MapPin, Navigation, Phone, ExternalLink, Calendar, Clock, Train } from 'lucide-react';
+import { MapPin, Navigation, ExternalLink, Calendar, Clock, Train } from 'lucide-react';
 
 interface VenueSectionProps {
   data: WeddingData;
@@ -169,35 +169,6 @@ export const VenueSection: React.FC<VenueSectionProps> = ({ data }) => {
           </div>
         </div>
 
-      </div>
-
-      {/* Family Contacts */}
-      <div className="border-t border-[#d4af37]/25 pt-8 mt-10 max-w-2xl mx-auto text-center">
-        <p className="font-tamil text-xs text-[#d4af37] uppercase tracking-widest mb-4 font-semibold">
-          தொடர்புக்கு &amp; நல்வரவு (Contact &amp; Welcome)
-        </p>
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
-          {data.contacts.map((contact, i) => (
-            <div
-              key={i}
-              className="bg-[#1b0408]/80 border border-[#d4af37]/25 rounded-xl p-3 text-left flex items-center justify-between"
-            >
-              <div>
-                <p className="font-tamil text-xs font-semibold text-[#fce8a2]">
-                  {contact.name}
-                </p>
-                <p className="text-[10px] text-[#eddcaa]/70">{contact.role}</p>
-              </div>
-              <a
-                href={`tel:${contact.phone.replace(/[^0-9+]/g, '')}`}
-                className="p-1.5 rounded-full bg-amber-950/60 hover:bg-amber-900 border border-amber-500/40 text-amber-300 transition-colors"
-                title="அழைக்கவும்"
-              >
-                <Phone className="w-3.5 h-3.5" />
-              </a>
-            </div>
-          ))}
-        </div>
       </div>
     </section>
   );

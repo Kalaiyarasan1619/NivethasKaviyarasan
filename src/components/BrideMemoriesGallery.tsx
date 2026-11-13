@@ -25,72 +25,72 @@ const memories: CoupleMemory[] = [
   {
     id: 1,
     src: nivi1,
-    titleTamil: "கனவுகள் மலரும் புன்னகை",
-    titleEnglish: "DREAMS BLOOM INTO SMILES",
-    subtitleTamil: "கடற்கரையின் அலைகளோடு சங்கமிக்கும் இனிய காதல் தருணம்."
+    titleTamil: "கடற்கரை மலர் வளைவில் காதல் நடனம்",
+    titleEnglish: "DANCING UNDER THE FLORAL ARCH",
+    subtitleTamil: "கடற்கரை மணலில் மலர் வளைவின் கீழ் கைகோர்த்து சுழலும் இனிய காதல் தருணம்."
   },
   {
     id: 2,
     src: nivi2,
-    titleTamil: "அன்பின் மென் அணைப்பு",
-    titleEnglish: "EMBRACE OF ETERNAL LOVE",
-    subtitleTamil: "இதயங்கள் ஒன்றிணைந்த அமைதியும் பேரழகும் நிறைந்த வேளை."
+    titleTamil: "கடலலையின் மடியில் அன்பின் அணைப்பு",
+    titleEnglish: "ROMANTIC EMBRACE BY THE SHORE",
+    subtitleTamil: "ஆழ்கடலின் அலைகள் தழுவ ஒருவரையொருவர் நோக்கி மலரும் மென்மையான காதல் பார்வை."
   },
   {
     id: 3,
     src: nivi3,
-    titleTamil: "இதயத்தின் இனிய கீதம்",
-    titleEnglish: "MELODY OF JOY & TOGETHERNESS",
-    subtitleTamil: "பாரம்பரியத்தின் வண்ணத்தில் மலர்ந்த மகிழ்ச்சியான நொடிகள்."
+    titleTamil: "பாரம்பரிய எழிலில் மங்கல ஜோடி",
+    titleEnglish: "TRADITIONAL ELEGANCE TOGETHER",
+    subtitleTamil: "பட்டுச் சேலையும் வேட்டியும் அணிந்து கோயில் திருச்சுற்றில் மலரும் மங்கலப் புன்னகை."
   },
   {
     id: 4,
     src: nivi4,
-    titleTamil: "கை கோர்த்து நடக்கும் பாதை",
-    titleEnglish: "WALKING TOWARDS FOREVER",
-    subtitleTamil: "இரு இதயங்களின் வசந்தமாய் நீளும் அழகான பயணம்."
+    titleTamil: "செங்கல் வளைவில் நெற்றி முட்டும் நேசம்",
+    titleEnglish: "TENDER FOREHEAD EMBRACE UNDER THE ARCH",
+    subtitleTamil: "கண்ணிமை மூடி கன்னம் தொட்டு இதயத் துடிப்பை உணரும் மென்மையான காதல் தருணம்."
   },
   {
     id: 5,
     src: nivi5,
-    titleTamil: "மகிழ்ச்சியின் வண்ண நடனம்",
-    titleEnglish: "RADIANCE & GRACE",
-    subtitleTamil: "மனம் நிறைந்த பூரிப்பில் மிளிரும் மணமகளின் எழில் தோற்றம்."
+    titleTamil: "மரபு மாளிகையின் பால்கனியில் புன்னகை",
+    titleEnglish: "SMILING AT THE HERITAGE BALCONY",
+    subtitleTamil: "பாரம்பரிய மரத்தூண் மாளிகையின் உப்பரிகையில் தோளோடு கை சேர்த்து புன்னகைக்கும் தம்பதியர்."
   },
   {
     id: 6,
     src: nivi6,
-    titleTamil: "வண்ணமயமான புதுப்பயணம்",
-    titleEnglish: "A COLORFUL NEW CHAPTER",
-    subtitleTamil: "காதலும் பாசமும் துளிர்க்கும் இனிய மாலைப் பொழுது."
+    titleTamil: "பசுமை நிழலில் தலைசாய்க்கும் பாசம்",
+    titleEnglish: "LEANING CLOSE IN NATURE'S SHADE",
+    subtitleTamil: "மரங்களின் நிழலில் அன்போடு தலை சாய்த்து மலரும் புதிய வாழ்வின் உறுதிமொழி."
   },
   {
     id: 7,
     src: nivi7,
-    titleTamil: "பாரம்பரியத்தின் கம்பீரம்",
-    titleEnglish: "TIMELESS TRADITION & CHARM",
-    subtitleTamil: "பண்பும் அழகும் பொங்கி வழியும் சுபயோக நன்னாளின் தொடக்கம்."
+    titleTamil: "தெப்பக்குளக்கரையில் தம்பதியர்",
+    titleEnglish: "TOGETHER BY THE SACRED TEMPLE POND",
+    subtitleTamil: "கோயில் குளத்தின் கரையில் தென்றல் தழுவ அமைதியும் பூரிப்பும் நிறைந்த அழகு தோற்றம்."
   },
   {
     id: 8,
     src: nivi8,
-    titleTamil: "பார்வைகளின் பாச உரையாடல்",
-    titleEnglish: "WHISPERS OF THE SOUL",
-    subtitleTamil: "மௌனத்தில் பேசும் விழிகளின் கவிதை வரிகள்."
+    titleTamil: "அன்போடு நோக்கும் பார்வையும் வெட்கப் புன்னகையும்",
+    titleEnglish: "LOVING GAZE & SHY SMILES",
+    subtitleTamil: "மணமகனின் கனிவான பார்வையில் மணமகள் முகத்தில் மலரும் இனிய வெட்கம்."
   },
   {
     id: 9,
     src: nivi9,
-    titleTamil: "காதலின் புனித பந்தம்",
-    titleEnglish: "SACRED PROMISE OF LOVE",
-    subtitleTamil: "ஆயுள் வரை துணையாகும் மங்கல நன்னாளின் பூரிப்பு."
+    titleTamil: "பாதத்தில் கொலுசு அணிவிக்கும் பாச தருணம்",
+    titleEnglish: "ADORNING THE SILVER ANKLET WITH LOVE",
+    subtitleTamil: "மண்டியிட்டு மணமகள் பாதத்தில் கொலுசு அணிவித்து பாசம் பொழியும் பொன்னான நன்னொடி."
   },
   {
     id: 10,
     src: nivi10,
-    titleTamil: "மங்கல நன்னாளின் மணமக்கள்",
-    titleEnglish: "THE RADIANT SOULMATES",
-    subtitleTamil: "இல்லற வாழ்வில் இணைந்திடும் நிவேதா & கவியரசன்."
+    titleTamil: "கோயில் படித்துறையில் இனிய உரையாடல்",
+    titleEnglish: "SHARED LAUGHTER ON TEMPLE STEPS",
+    subtitleTamil: "படித்துறைக் கல்லில் அமர்ந்து மனந்திறந்து பேசி மகிழும் அழகிய காதல் நொடிகள்."
   }
 ];
 
